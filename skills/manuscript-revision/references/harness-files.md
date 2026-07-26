@@ -59,7 +59,17 @@ Create only the files the current phase requires. Fill each file with project-sp
 - Humanizer (ZH): [op7418/Humanizer-zh vX.X / claude-native / not applicable]
 - Target register: [e.g., graduate-level technical / practitioner guide / public explainer]
 
+## Chapter Status Overview
+
+One row per source file (chapter). Update as sessions complete.
+
+| Chapter | File | Sections | Transform status | Humanize status | Conflicts |
+|---|---|---|---|---|---|
+| CH01 | chapter-01.md | 4 | planned/in-progress/complete | planned/in-progress/complete | 0 |
+
 ## Per-Section Transform Plan
+
+One row per section across all chapters. Sections from different files share this table; the `CH` prefix in the ID identifies which file they belong to.
 
 | ID | Title | Priority | Claim class | Evidence | Formal dev | Source integrity | Notation | Humanize | Notes |
 |---|---|---|---|---|---|---|---|---|---|
@@ -107,6 +117,16 @@ Append-only. Never delete or edit a prior entry. To supersede a decision, add a 
 ## Current Phase
 
 [Ingest / Diagnose / Plan / Transform / Humanize / Validate / Complete]
+
+## Chapter-Level Summary
+
+| Chapter | File | Sections | Transform | Humanize |
+|---|---|---|---|---|
+| CH01 | chapter-01.md | 4 | complete | complete |
+| CH02 | chapter-02.md | 5 | in-progress | planned |
+| CH03 | chapter-03.md | 3 | planned | planned |
+
+*Update this table at the end of each session. It is the fastest way to see where the whole manuscript stands.*
 
 ## Last Completed Item
 
