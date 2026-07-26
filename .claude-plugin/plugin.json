@@ -1,0 +1,10 @@
+{
+  "name": "manuscript-revision",
+  "displayName": "Manuscript Revision",
+  "description": "Diagnose, restructure, and humanize existing manuscripts to meet scientific rigor standards. Integrates blader/humanizer (EN) and op7418/Humanizer-zh (ZH) as optional post-processors.",
+  "author": {
+    "name": "Liang Guo",
+    "email": "chengmai921@gmail.com"
+  },
+  "category": "writing"
+}
